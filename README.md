@@ -5,19 +5,27 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 > Grass
 
-https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
+* https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
+
+* Referral code: Fra96-ViN3D3VbC
 
 > Alpha Network
 
-https://alphaos.net/point?invite=UFCMK0
+* https://alphaos.net/point?invite=UFCMK0
+
+* Referral code: UFCMK0
 
 > BlockMesh Network
 
-https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
+* https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
+
+* Referral code: 08eed1fa-f603-4f35-8125-2867697d38a6
 
 > Toggle
 
-https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
+* https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
+
+* Referral code: a2742876-df9e-4e0e-a58a-66aa9aff742d
 
 > Dawn
 
@@ -30,13 +38,18 @@ https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
 * https://app.gradient.network/
 
 * Referral code: O9LUV3
+  
 > Nodepay
 
-https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
+* https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
+
+* Referral code: GNu1y2jDmQRRAtM
 
 > Oasis AI
 
-https://r.oasis.ai/2de38eed9eb730a53
+* https://r.oasis.ai/2de38eed9eb730a53
+
+* Referral code: 2de38eed9eb730a53
 
 > Functor Network
 
