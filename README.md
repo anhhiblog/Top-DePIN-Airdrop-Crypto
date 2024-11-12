@@ -1,7 +1,7 @@
 # Top dự án DePIN săn Airdrop tại thị trường Crypto
 Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physical Infrastructure Networks) hay còn được gọi là “Mạng lưới cơ sở hạ tầng vật lý phi tập trung”, đang nổi lên như một hiện tượng khi cách thức săn airdrop vô cùng đơn giản là tải extension (tiện ích) về rồi có kết nối internet là có thể đào point hoặc token.
 
-(https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
+![](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
 > Grass
 
