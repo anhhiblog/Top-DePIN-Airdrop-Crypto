@@ -37,6 +37,12 @@ https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
 > Oasis AI
 
 https://r.oasis.ai/2de38eed9eb730a53
+
+> Functor Network
+
+* https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3e8y5i20401o21b0gvmy9la
+
+* Referral code: cm3e8y5i20401o21b0gvmy9la
 # Bài viết chi tiết tại anh Hí blogger
 https://www.anhhiblog.net/2024/11/airdrop-la-gi-cach-lam-airdrop-coin-trong-thi-truong-crypto.html
 
