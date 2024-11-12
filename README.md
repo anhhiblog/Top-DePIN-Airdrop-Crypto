@@ -4,19 +4,50 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 > Grass
 
 https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
+
 > Alpha Network
+
 https://alphaos.net/point?invite=UFCMK0
+
 > BlockMesh Network
+
 https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
+
 > Toggle
+
 https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
+
 > Dawn
-https://dawn-internet.webflow.io/
-Referral code: mk10ovy5
+
+* https://dawn-internet.webflow.io/
+
+* Referral code: mk10ovy5
+
 > Gradient Network
-https://app.gradient.network/
-Referral code: O9LUV3
+
+* https://app.gradient.network/
+
+* Referral code: O9LUV3
 > Nodepay
+
 https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
+
 > Oasis AI
+
 https://r.oasis.ai/2de38eed9eb730a53
+# Bài viết chi tiết tại anh Hí blogger
+https://www.anhhiblog.net/2024/11/airdrop-la-gi-cach-lam-airdrop-coin-trong-thi-truong-crypto.html
+
+https://www.anhhiblog.net/2024/11/depin-la-gi-tuong-lai-cua-co-so-ha-tang-phi-tap-trung-trong-web3.html
+
+https://www.anhhiblog.net/2024/11/blockmesh-la-gi-huong-dan-san-airdrop-blockmesh.html
+
+https://www.anhhiblog.net/2024/11/gradient-network-la-gi-huong-dan-san-airdrop-du-an-gradient.html
+
+https://www.anhhiblog.net/2024/11/nodepay-la-gi-huong-dan-tham-gia-airdrop-du-an-nodepay-thong-qua-chia-se-bang-thong-khong-su-dung.html
+
+https://www.anhhiblog.net/2024/11/huong-dan-san-airdrop-dawn-du-an-depin-treo-may-nhan-token-he-solana.html
+
+https://www.anhhiblog.net/2024/11/grass-la-gi-huong-dan-san-airdrop-token-voi-du-an-grass.html
+
+i (Tiếp tục cập nhật...)
