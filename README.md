@@ -3,6 +3,12 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
+> 🆕Bless network
+
+* https://bless.network/dashboard?ref=L8BCDN
+
+* Referral code: L8BCDN
+
 > Grass
 
 * https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
@@ -70,5 +76,7 @@ https://www.anhhiblog.net/2024/11/nodepay-la-gi-huong-dan-tham-gia-airdrop-du-an
 https://www.anhhiblog.net/2024/11/huong-dan-san-airdrop-dawn-du-an-depin-treo-may-nhan-token-he-solana.html
 
 https://www.anhhiblog.net/2024/11/grass-la-gi-huong-dan-san-airdrop-token-voi-du-an-grass.html
+
+https://www.anhhiblog.net/2024/11/du-an-depin-airdrop-moi-bless-network.html
 
 (Tiếp tục cập nhật...)
