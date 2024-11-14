@@ -3,65 +3,66 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
-> 🆕Bless network
+### 🆕Bless network
 
 * https://bless.network/dashboard?ref=L8BCDN
 
 * Referral code: L8BCDN
 
-> Grass
+### Grass
 
 * https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
 
 * Referral code: Fra96-ViN3D3VbC
 
-> Alpha Network
+### Alpha Network
 
 * https://alphaos.net/point?invite=UFCMK0
 
 * Referral code: UFCMK0
 
-> BlockMesh Network
+### BlockMesh Network
 
 * https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
 
 * Referral code: 08eed1fa-f603-4f35-8125-2867697d38a6
 
-> Toggle
+### Toggle
 
 * https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
 
 * Referral code: a2742876-df9e-4e0e-a58a-66aa9aff742d
 
-> Dawn
+### Dawn
 
 * https://dawn-internet.webflow.io/
 
 * Referral code: mk10ovy5
 
-> Gradient Network
+### Gradient Network
 
 * https://app.gradient.network/
 
 * Referral code: O9LUV3
   
-> Nodepay
+### Nodepay
 
 * https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
 
 * Referral code: GNu1y2jDmQRRAtM
 
-> Oasis AI
+### Oasis AI
 
 * https://r.oasis.ai/2de38eed9eb730a53
 
 * Referral code: 2de38eed9eb730a53
 
-> Functor Network
+### Functor Network
 
 * https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3e8y5i20401o21b0gvmy9la
 
 * Referral code: cm3e8y5i20401o21b0gvmy9la
+
 # Bài viết chi tiết tại anh Hí blogger
 https://www.anhhiblog.net/2024/11/airdrop-la-gi-cach-lam-airdrop-coin-trong-thi-truong-crypto.html
 
@@ -79,4 +80,4 @@ https://www.anhhiblog.net/2024/11/grass-la-gi-huong-dan-san-airdrop-token-voi-du
 
 https://www.anhhiblog.net/2024/11/du-an-depin-airdrop-moi-bless-network.html
 
-(Tiếp tục cập nhật...)
+> (Tiếp tục cập nhật...)
