@@ -63,6 +63,14 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 * Referral code: cm3e8y5i20401o21b0gvmy9la
 
+### Gaea
+
+* https://app.aigaea.net/register?ref=gaEvIqaCUxyPTh
+
+### Conet
+
+* https://beta1.conet.network/?referral=0x896bcabc4e9aad471545a8b13bccc32dfd233c1e
+
 # Bài viết chi tiết tại anh Hí blogger
 https://www.anhhiblog.net/2024/11/airdrop-la-gi-cach-lam-airdrop-coin-trong-thi-truong-crypto.html
 
