@@ -41,7 +41,7 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ### Gradient Network
 
-* https://app.gradient.network/
+* https://app.gradient.network/signup?code=O9LUV3
 
 * Referral code: O9LUV3
   
