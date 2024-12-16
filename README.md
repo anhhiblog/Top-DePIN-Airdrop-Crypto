@@ -88,4 +88,26 @@ https://www.anhhiblog.net/2024/11/grass-la-gi-huong-dan-san-airdrop-token-voi-du
 
 https://www.anhhiblog.net/2024/11/du-an-depin-airdrop-moi-bless-network.html
 
+https://www.anhhiblog.net/2024/12/meshchain-giai-phap-dien-toan-phi-tap-trung-cho-tuong-lai-ai.html
+
+https://www.anhhiblog.net/2024/11/nen-tang-blockchain-airdrop-tiem-nang-oasis-network.html
+
+https://www.anhhiblog.net/2024/11/du-an-gpu-phi-tap-trung-kaisar-network.html
+
+https://www.anhhiblog.net/2024/11/nhan-airdrop-token-tu-du-an-gaea-blockchain-depin.html
+
+https://www.anhhiblog.net/2024/11/toggle-airdrop-keo-depin-cuc-hot.html
+
+https://www.anhhiblog.net/2024/11/depin-va-su-bung-no-cua-nen-kinh-te-chia-se.html
+
+https://www.anhhiblog.net/2024/11/vai-tro-cua-cong-dong-trong-su-thanh-cong-cua-cac-du-an-depin.html
+
+https://www.anhhiblog.net/2024/11/lam-sao-de-phan-biet-du-an-depin-tiem-nang-va-du-an-lua-dao.html
+
+https://www.anhhiblog.net/2024/11/depin-khac-gi-so-voi-cac-mo-hinh-blockchain-truyen-thong.html
+
+https://www.anhhiblog.net/2024/11/huong-dan-su-dung-vi-solana-phantom-wallet.html
+
+https://www.anhhiblog.net/2024/11/lich-su-phat-trien-cua-airdrop-trong-nganh-crypto.html
+
 > (Tiếp tục cập nhật...)
