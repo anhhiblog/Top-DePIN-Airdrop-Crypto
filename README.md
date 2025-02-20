@@ -3,6 +3,10 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
+### 🆕voltix
+
+* https://voltix.ai/dashboard/salenodes?ref=GW25B
+
 ### 🆕openloop
 
 * https://openloop.so/
