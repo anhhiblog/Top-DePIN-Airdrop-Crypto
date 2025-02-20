@@ -3,35 +3,75 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
+### 🆕openloop
+
+* https://openloop.so/
+
+Ref: ol73ce4471
+
+### 🆕publicai
+
+* https://beta.publicai.io/?r=jq5WM
+
+### 🆕sparkchain
+
+* https://sparkchain.ai/register/?r=46536880
+
+### 🆕meshchain
+
+* https://app.meshchain.ai?ref=HLKOFBLBH4R9
+
+### 🆕layeredge
+
+* https://dashboard.layeredge.io/
+
+Ref: UA5dyIaB
+
+### 🆕multiple
+
+* https://www.app.multiple.cc/#/signup?inviteCode=3rVubBeA
+
+### 🆕depined
+
+* https://app.depined.org/
+
+Ref:DEEd5Kg4l24tcI
+
+### 🆕despeed
+
+* https://app.despeed.net/register?ref=rEIb7TGBIHld
+
+### 🆕Kaisa
+
+* https://zero.kaisar.io/register?ref=JnuzYC578
+
+### 🆕minionlab
+
+* https://ref.minionlab.io/?referralCode=BJLDnGsp
+
+### 🆕MyGate
+
+* https://app.mygate.network/login?code=RdSzZn
+
 ### 🆕Bless network
 
 * https://bless.network/dashboard?ref=L8BCDN
-
-* Referral code: L8BCDN
 
 ### Grass
 
 * https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
 
-* Referral code: Fra96-ViN3D3VbC
-
-### Alpha Network
+### Alphaos Network
 
 * https://alphaos.net/point?invite=UFCMK0
-
-* Referral code: UFCMK0
 
 ### BlockMesh Network
 
 * https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
 
-* Referral code: 08eed1fa-f603-4f35-8125-2867697d38a6
-
 ### Toggle
 
 * https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
-
-* Referral code: a2742876-df9e-4e0e-a58a-66aa9aff742d
 
 ### Dawn
 
@@ -43,35 +83,37 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 * https://app.gradient.network/signup?code=O9LUV3
 
-* Referral code: O9LUV3
-  
 ### Nodepay
 
 * https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
-
-* Referral code: GNu1y2jDmQRRAtM
-
-### Oasis AI
-
-* https://r.oasis.ai/2de38eed9eb730a53
-
-* Referral code: 2de38eed9eb730a53
 
 ### Functor Network
 
 * https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3e8y5i20401o21b0gvmy9la
 
-* Referral code: cm3e8y5i20401o21b0gvmy9la
-
 ### Gaea
 
 * https://app.aigaea.net/register?ref=gaEvIqaCUxyPTh
 
-### Conet
-
-* https://beta1.conet.network/?referral=0x896bcabc4e9aad471545a8b13bccc32dfd233c1e
-
 # Bài viết chi tiết tại anh Hí blogger
+https://www.anhhiblog.net/2025/02/gia-pi-network-bung-no-tren-san-okx.html
+
+https://www.anhhiblog.net/2025/02/tro-choi-blockchain-va-cach-kiem-tien-tu-gamefi.html
+
+https://www.anhhiblog.net/2025/02/cach-van-dong-vien-the-thao-kiem-tien-tu-tai-san-ky-thuat-so-nft.html
+
+https://www.anhhiblog.net/2025/02/defi-va-cach-no-dang-thay-doi-the-gioi-tai-chinh-truyen-thong.html
+
+https://www.anhhiblog.net/2025/02/nft-va-tuong-lai-cua-nghe-thuat-so.html
+
+https://www.anhhiblog.net/2025/02/pi-network-co-the-dat-gia-tri-1pi-khong.html
+
+https://www.anhhiblog.net/2025/02/cach-tham-gia-airdrop-tren-mang-luoi-iota.html
+
+https://www.anhhiblog.net/2025/02/mainnet-la-trai-tim-cua-cac-du-an-blockchain.html
+
+https://www.anhhiblog.net/2025/02/co-hoi-tu-cac-du-an-testnet-trong-thi-truong-crypto.html
+
 https://www.anhhiblog.net/2024/11/airdrop-la-gi-cach-lam-airdrop-coin-trong-thi-truong-crypto.html
 
 https://www.anhhiblog.net/2024/11/depin-la-gi-tuong-lai-cua-co-so-ha-tang-phi-tap-trung-trong-web3.html
