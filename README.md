@@ -9,9 +9,7 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ### 🆕openloop
 
-* https://openloop.so/
-
-Ref: ol73ce4471
+* https://openloop.so/auth/register?ref=ol73ce4471
 
 ### 🆕publicai
 
