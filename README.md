@@ -3,59 +3,101 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
-### 🆕voltix
+### 🆕Bless network
+
+https://chrome.google.com/webstore/detail/stork/knnliglhgkmlblppdejchidfihjnockl
+
+Referral code: 5ZNV7B0NTI
+
+### 🆕Hub AI Agent
+
+https://ai.hub.xyz/cult/aloi91418
+
+### 🆕NodeGo
+
+https://app.nodego.ai/r/NODE230D09A15B80
+
+### 🆕Hivello
+
+https://dashboard.hivello.com/referrals?code=2HIWB64288
+
+### 🆕KRAIN
+
+https://airdrop.krain.ai/PKYEMY
+
+### 🆕MAGICNEWTON
+
+https://magicnewton.com/portal?referral=9ytptgsvrvu970tl
+
+### 🆕KITE AI Testnet
+
+https://testnet.gokite.ai/?r=EFHgEBjX
+
+### 🆕NOMISMA Testnet
+
+https://nomisma.network/quests?invite=2jCyLCDa
+
+### 🆕PublicAI
+
+https://beta.publicai.io/?r=jq5WM
+
+### Navigate (NVG8)
+
+https://dataquest.nvg8.io//signup?ref=322502
+
+### voltix
 
 * https://voltix.ai/dashboard/salenodes?ref=GW25B
 
-### 🆕openloop
+### openloop
 
 * https://openloop.so/auth/register?ref=ol73ce4471
 
-### 🆕publicai
+### publicai
 
 * https://beta.publicai.io/?r=jq5WM
 
-### 🆕sparkchain
+### sparkchain
 
 * https://sparkchain.ai/register/?r=46536880
 
-### 🆕meshchain
+### meshchain
 
 * https://app.meshchain.ai?ref=HLKOFBLBH4R9
 
-### 🆕layeredge
+### layeredge
 
 * https://dashboard.layeredge.io/
 
 Ref: UA5dyIaB
 
-### 🆕multiple
+### multiple
 
 * https://www.app.multiple.cc/#/signup?inviteCode=3rVubBeA
 
-### 🆕depined
+### depined
 
 * https://app.depined.org/
 
 Ref:DEEd5Kg4l24tcI
 
-### 🆕despeed
+### despeed
 
 * https://app.despeed.net/register?ref=rEIb7TGBIHld
 
-### 🆕Kaisa
+### Kaisa
 
 * https://zero.kaisar.io/register?ref=JnuzYC578
 
-### 🆕minionlab
+### minionlab
 
 * https://ref.minionlab.io/?referralCode=BJLDnGsp
 
-### 🆕MyGate
+### MyGate
 
 * https://app.mygate.network/login?code=RdSzZn
 
-### 🆕Bless network
+### Bless network
 
 * https://bless.network/dashboard?ref=L8BCDN
 
