@@ -3,7 +3,7 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
-### 🆕Bless network
+### 🆕Stork Network
 
 https://chrome.google.com/webstore/detail/stork/knnliglhgkmlblppdejchidfihjnockl
 
