@@ -45,99 +45,99 @@ https://beta.publicai.io/?r=jq5WM
 
 https://dataquest.nvg8.io//signup?ref=322502
 
-### voltix
+### Voltix
 
-* https://voltix.ai/dashboard/salenodes?ref=GW25B
+https://voltix.ai/dashboard/salenodes?ref=GW25B
 
-### openloop
+### OpenLoop
 
-* https://openloop.so/auth/register?ref=ol73ce4471
+https://openloop.so/auth/register?ref=ol73ce4471
 
-### publicai
+### PublicAI
 
-* https://beta.publicai.io/?r=jq5WM
+https://beta.publicai.io/?r=jq5WM
 
-### sparkchain
+### SparkChain
 
-* https://sparkchain.ai/register/?r=46536880
+https://sparkchain.ai/register/?r=46536880
 
-### meshchain
+### MeshChain
 
-* https://app.meshchain.ai?ref=HLKOFBLBH4R9
+https://app.meshchain.ai?ref=HLKOFBLBH4R9
 
-### layeredge
+### LayerEdge
 
-* https://dashboard.layeredge.io/
+https://dashboard.layeredge.io/
 
-Ref: UA5dyIaB
+Referral code: UA5dyIaB
 
-### multiple
+### Multiple
 
-* https://www.app.multiple.cc/#/signup?inviteCode=3rVubBeA
+https://www.app.multiple.cc/#/signup?inviteCode=3rVubBeA
 
-### depined
+### DePined
 
-* https://app.depined.org/
+https://app.depined.org/
 
-Ref:DEEd5Kg4l24tcI
+Referral code: DEEd5Kg4l24tcI
 
-### despeed
+### DeSpeed
 
-* https://app.despeed.net/register?ref=rEIb7TGBIHld
+https://app.despeed.net/register?ref=rEIb7TGBIHld
 
 ### Kaisa
 
-* https://zero.kaisar.io/register?ref=JnuzYC578
+https://zero.kaisar.io/register?ref=JnuzYC578
 
-### minionlab
+### Minionlab
 
-* https://ref.minionlab.io/?referralCode=BJLDnGsp
+https://ref.minionlab.io/?referralCode=BJLDnGsp
 
 ### MyGate
 
-* https://app.mygate.network/login?code=RdSzZn
+https://app.mygate.network/login?code=RdSzZn
 
-### Bless network
+### Bless Network
 
-* https://bless.network/dashboard?ref=L8BCDN
+https://bless.network/dashboard?ref=L8BCDN
 
 ### Grass
 
-* https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
+https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
 
 ### Alphaos Network
 
-* https://alphaos.net/point?invite=UFCMK0
+https://alphaos.net/point?invite=UFCMK0
 
 ### BlockMesh Network
 
-* https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
+https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
 
 ### Toggle
 
-* https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
+https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
 
 ### Dawn
 
-* https://dawn-internet.webflow.io/
+https://dawn-internet.webflow.io/
 
-* Referral code: mk10ovy5
+Referral code: mk10ovy5
 
 ### Gradient Network
 
-* https://app.gradient.network/signup?code=O9LUV3
+https://app.gradient.network/signup?code=O9LUV3
 
 ### Nodepay
 
-* https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
+https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
 
 ### Functor Network
 
-* https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3e8y5i20401o21b0gvmy9la
+https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3e8y5i20401o21b0gvmy9la
 
 ### Gaea
 
-* https://app.aigaea.net/register?ref=gaEvIqaCUxyPTh
+https://app.aigaea.net/register?ref=gaEvIqaCUxyPTh
 
 # Bài viết chi tiết tại anh Hí blogger
 https://www.anhhiblog.net/2025/02/gia-pi-network-bung-no-tren-san-okx.html
