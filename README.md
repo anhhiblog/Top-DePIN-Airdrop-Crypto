@@ -3,6 +3,18 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
+### 🆕Billions network
+
+https://signup.billions.network?rc=4MDBRX77
+
+### 🆕EarnOS
+
+https://app.earnos.com?ref=aloi16it
+
+### 🆕Taker Protocol
+
+https://earn.taker.xyz?start=KTB0G
+
 ### 🆕Stork Network
 
 https://chrome.google.com/webstore/detail/stork/knnliglhgkmlblppdejchidfihjnockl
