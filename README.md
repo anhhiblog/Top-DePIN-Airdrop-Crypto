@@ -3,6 +3,10 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
+### 🆕Kaleido
+
+https://kaleidofinance.xyz/testnet?ref=HH3NGMYR
+
 ### 🆕Billions network
 
 https://signup.billions.network?rc=4MDBRX77
@@ -29,27 +33,27 @@ https://ai.hub.xyz/cult/aloi91418
 
 https://app.nodego.ai/r/NODE230D09A15B80
 
-### 🆕Hivello
-
-https://dashboard.hivello.com/referrals?code=2HIWB64288
-
 ### 🆕KRAIN
 
 https://airdrop.krain.ai/PKYEMY
 
-### 🆕MAGICNEWTON
+### Hivello
+
+https://dashboard.hivello.com/referrals?code=2HIWB64288
+
+### MAGICNEWTON
 
 https://magicnewton.com/portal?referral=9ytptgsvrvu970tl
 
-### 🆕KITE AI Testnet
+### KITE AI Testnet
 
 https://testnet.gokite.ai/?r=EFHgEBjX
 
-### 🆕NOMISMA Testnet
+### NOMISMA Testnet
 
 https://nomisma.network/quests?invite=2jCyLCDa
 
-### 🆕PublicAI
+### PublicAI
 
 https://beta.publicai.io/?r=jq5WM
 
@@ -77,7 +81,7 @@ https://sparkchain.ai/register/?r=46536880
 
 https://app.meshchain.ai?ref=HLKOFBLBH4R9
 
-### LayerEdge
+### 🔥LayerEdge
 
 https://dashboard.layeredge.io/
 
@@ -109,11 +113,11 @@ https://ref.minionlab.io/?referralCode=BJLDnGsp
 
 https://app.mygate.network/login?code=RdSzZn
 
-### Bless Network
+### 🔥Bless Network
 
 https://bless.network/dashboard?ref=L8BCDN
 
-### Grass
+### 🔥Grass
 
 https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
 
@@ -121,7 +125,7 @@ https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
 
 https://alphaos.net/point?invite=UFCMK0
 
-### BlockMesh Network
+### 🔥BlockMesh Network
 
 https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
 
@@ -129,13 +133,13 @@ https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d3
 
 https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
 
-### Dawn
+### 🔥Dawn
 
 https://dawn-internet.webflow.io/
 
 Referral code: mk10ovy5
 
-### Gradient Network
+### 🔥Gradient Network
 
 https://app.gradient.network/signup?code=O9LUV3
 
