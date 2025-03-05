@@ -3,6 +3,10 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
+### 🆕Layer3
+
+https://app.layer3.xyz/quests?ref=0x1E565E1c93274f89980C907967c72D9413aEFF2a
+
 ### 🆕Codatta
 
 https://app.codatta.io/referral/T917929V 
