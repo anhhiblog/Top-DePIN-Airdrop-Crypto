@@ -3,6 +3,22 @@ Dạo gần đây thì từ khoá DePIN (viết tắt của Decentralized Physic
 
 ![DePIN.png](https://github.com/anhhiblog/ahi/blob/main/image/DePIN.png)
 
+### 🆕Codatta
+
+https://app.codatta.io/referral/T917929V 
+
+### 🆕Bluwhale
+
+https://profile.bluwhale.com/login?referral=undefined
+
+### 🆕MOONVEIL
+
+https://moonveil.gg/?invite_code=YGDUY6KW
+
+### 🆕Multipli
+
+https://testnet.multipli.fi?referral_code=GJLABF
+
 ### 🆕Kaleido
 
 https://kaleidofinance.xyz/testnet?ref=HH3NGMYR
