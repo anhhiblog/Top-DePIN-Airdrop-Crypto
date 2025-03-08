@@ -9,7 +9,7 @@ https://app.layer3.xyz/quests?ref=0x1E565E1c93274f89980C907967c72D9413aEFF2a
 
 ### 🆕Codatta
 
-https://app.codatta.io/referral/T917929V 
+https://app.codatta.io/referral/T917929V
 
 ### 🆕Bluwhale
 
@@ -77,11 +77,11 @@ https://nomisma.network/quests?invite=2jCyLCDa
 
 https://beta.publicai.io/?r=jq5WM
 
-### Navigate (NVG8)
+### ⚡Navigate (NVG8)
 
 https://dataquest.nvg8.io//signup?ref=322502
 
-### Voltix
+### ⚡Voltix
 
 https://voltix.ai/dashboard/salenodes?ref=GW25B
 
@@ -111,13 +111,13 @@ Referral code: UA5dyIaB
 
 https://www.app.multiple.cc/#/signup?inviteCode=3rVubBeA
 
-### DePined
+### ⚡DePined
 
 https://app.depined.org/
 
 Referral code: DEEd5Kg4l24tcI
 
-### DeSpeed
+### ⚡DeSpeed
 
 https://app.despeed.net/register?ref=rEIb7TGBIHld
 
@@ -125,11 +125,11 @@ https://app.despeed.net/register?ref=rEIb7TGBIHld
 
 https://zero.kaisar.io/register?ref=JnuzYC578
 
-### Minionlab
+### ⚡Minionlab
 
 https://ref.minionlab.io/?referralCode=BJLDnGsp
 
-### MyGate
+### ⚡MyGate
 
 https://app.mygate.network/login?code=RdSzZn
 
@@ -141,7 +141,7 @@ https://bless.network/dashboard?ref=L8BCDN
 
 https://app.getgrass.io/register?referralCode=Fra96-ViN3D3VbC
 
-### Alphaos Network
+### 🌹Alphaos Network
 
 https://alphaos.net/point?invite=UFCMK0
 
@@ -149,7 +149,7 @@ https://alphaos.net/point?invite=UFCMK0
 
 https://app.blockmesh.xyz/register?invite_code=08eed1fa-f603-4f35-8125-2867697d38a6
 
-### Toggle
+### 🌹Toggle
 
 https://toggle.pro/sign-up/a2742876-df9e-4e0e-a58a-66aa9aff742d
 
@@ -163,15 +163,15 @@ Referral code: mk10ovy5
 
 https://app.gradient.network/signup?code=O9LUV3
 
-### Nodepay
+### 🌹Nodepay
 
 https://app.nodepay.ai/register?ref=GNu1y2jDmQRRAtM
 
-### Functor Network
+### 🌹Functor Network
 
 https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3e8y5i20401o21b0gvmy9la
 
-### Gaea
+### 🌹Gaea
 
 https://app.aigaea.net/register?ref=gaEvIqaCUxyPTh
 
