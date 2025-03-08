@@ -13,7 +13,7 @@ https://app.codatta.io/referral/T917929V
 
 ### 🆕Bluwhale
 
-https://profile.bluwhale.com/login?referral=undefined
+https://profile.bluwhale.com/login?referral=0467024d-bf00-4d70-b492-7b5e7c770175
 
 ### 🆕MOONVEIL
 
