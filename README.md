@@ -8,6 +8,10 @@ Bên cạnh việc giao dịch và đầu tư, người dùng còn có thể tha
 https://www.anhhiblog.net/p/top-du-crypto-tiem-nang-airdrop.html
 
 # Bài viết tại anh Hí blog
+https://www.anhhiblog.net/2025/02/bi-quyet-tham-gia-testnet-crypto-thanh.html
+
+https://www.anhhiblog.net/2025/02/chien-luoc-bao-ve-tai-san-khi-gia-pi-network-dang-truot-dai.html
+
 https://www.anhhiblog.net/2025/02/gia-pi-network-bung-no-tren-san-okx.html
 
 https://www.anhhiblog.net/2025/02/tro-choi-blockchain-va-cach-kiem-tien-tu-gamefi.html
